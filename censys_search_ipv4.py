@@ -33,4 +33,5 @@ def nonconvert(results):
         non_filtered.extend(result)
         if cnt == 1000:
             break
+    return non_filtered
 
