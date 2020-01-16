@@ -1,6 +1,6 @@
 import smtplib
 import argparse
-
+from email.mime.text import MIMEText
 parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 
 parser.add_argument(
