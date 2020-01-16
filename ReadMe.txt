@@ -23,3 +23,4 @@ ps) 현재 테스트를 거치다 Censys qoutation 임계치를 넘어서 테스
 
 실행을 원하신다면 open_tool.py를 실행하여 주시기 바랍니다.
 
+현재 nonfiltered 기능은 쓸 수 없으니 참고해주시기 바랍니다.
